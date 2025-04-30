@@ -38,5 +38,5 @@ PLAN : Bee는 MR 디펜스 장르 게임입니다.<br>
 ## 시연 영상
 <br>
 
-https://github.com/user-attachments/assets/de2fcdf2-567a-46cd-b3a1-416bcec5d6e1
-
+https://github.com/user-attachments/assets/de2fcdf2-567a-46cd-b3a1-416bcec5d6e1<br>
+https://github.com/user-attachments/assets/cbff18d0-af96-4485-9ae5-cb4d5378a671
