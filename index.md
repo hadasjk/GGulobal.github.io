@@ -55,7 +55,7 @@ PLAN : Bee는 MR 디펜스 장르 게임입니다.<br>
 
   ![Image](https://github.com/user-attachments/assets/fa72c877-1e94-435d-8144-71e528af9808)
   <br><br>
-  현실에 등장하는 캐릭터와 대화해볼 수 있습니다.
+  <b>현실에 등장하는 캐릭터와 대화해볼 수 있습니다.</b>
   <br>
   
 </div>
@@ -67,7 +67,7 @@ PLAN : Bee는 MR 디펜스 장르 게임입니다.<br>
   
   ![Image](https://github.com/user-attachments/assets/206f34c1-3330-4865-a0a0-4a7b826ee871)
   <br><br>
-  손을 총 모양으로 만들어 벽을 부수고 시야를 확보하세요. 다양한 특성을 가진 말벌을 해치우고 데이터를 사수해야합니다!
+  <b>손을 총 모양으로 만들어 벽을 부수고 시야를 확보하세요. 다양한 특성을 가진 말벌을 해치우고 데이터를 사수해야합니다!</b>
   <br>
 
 </div>
@@ -78,7 +78,7 @@ PLAN : Bee는 MR 디펜스 장르 게임입니다.<br>
   
   ![Image](https://github.com/user-attachments/assets/9b9b4f76-65e6-4eb2-83ef-d41364b993bb)
   <br><br>
-  직접 손을 휘둘러 말벌을 날려버리는 타격감을 느껴보세요!
+  <b>직접 손을 휘둘러 말벌을 날려버리는 타격감을 느껴보세요!</b>
   <br>
 
 </div>
@@ -89,7 +89,7 @@ PLAN : Bee는 MR 디펜스 장르 게임입니다.<br>
   
   ![Image](https://github.com/user-attachments/assets/ef18a9c8-eadd-4066-987e-f5ed5510b94b)
   <br><br>
-  육각형 판 위에 손을 올려 6가지의 다양한 스킬을 활용해보세요!
+  <b>육각형 판 위에 손을 올려 6가지의 다양한 스킬을 활용해보세요!</b>
   <br>
 
 </div>
@@ -100,7 +100,7 @@ PLAN : Bee는 MR 디펜스 장르 게임입니다.<br>
   
   ![Image](https://github.com/user-attachments/assets/7c18b5d4-cd72-4a6a-9684-da1f7711af87)
   <br><br>
-  화끈한 메테오로 필드에 있는 모든 적을 없애버릴 수 있습니다!
+  <b>화끈한 메테오로 필드에 있는 모든 적을 없애버릴 수 있습니다!</b>
   <br>
 
 </div>
@@ -111,7 +111,7 @@ PLAN : Bee는 MR 디펜스 장르 게임입니다.<br>
   
   ![Image](https://github.com/user-attachments/assets/f895c789-b9f5-488e-a93d-e47743bcb02a)
   <br><br>
-  얼음스킬을 활용해 모든 적을 얼리고 시간을 벌어보세요!
+  <b>얼음스킬을 활용해 모든 적을 얼리고 시간을 벌어보세요!</b>
   <br>
 
 </div>
