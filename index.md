@@ -40,7 +40,8 @@ PLAN : Bee는 MR 디펜스 장르 게임입니다.<br>
 <br>
 <h3>🕹️ 게임시작 </h3><br>
 <div align="center">
-  <video src=![Image](https://github.com/user-attachments/assets/2339eb76-5fa8-45f0-a57f-a51a5b4d5e09)" width="400" />
+  
+  ![Image](https://github.com/user-attachments/assets/2339eb76-5fa8-45f0-a57f-a51a5b4d5e09)
   
   <br><br>
   <b>컨트롤러가 아닌 손을 통해 상호작용하고 특정 핸드제스쳐를 활용해 게임을 진행해보세요!</b>
