@@ -7,12 +7,13 @@ members:
 ---
 
 ## 프로젝트 개요
-
+<h4>
 <b> 팀명: </b> 꿀로벌(GGulobal) <br><br>
-<b> 팀원 </b> <br><br>
+<b> 팀원 </b> <br><br></h4>
+<b>
 조태현 - hadasjk33@naver.com <br> <br>
 김재형 - kjh3448723@naver.com <br><br>
-박민혁 - minhyeokpark01@gmail.com<br>
+박민혁 - minhyeokpark01@gmail.com<br></b>
 <br><br><br>
 ## 프로젝트 설명
 
