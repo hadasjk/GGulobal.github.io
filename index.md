@@ -12,7 +12,7 @@ members:
 <b> 팀원 </b> <br><br>
 조태현 - hadasjk33@naver.com <br> <br>
 김재형 - kjh3448723@naver.com <br><br>
-박민혁 - minhyeokpark01@gmail.com<br><br>
+박민혁 - minhyeokpark01@gmail.com<br>
 <br><br><br>
 ## 프로젝트 설명
 
