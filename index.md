@@ -15,6 +15,7 @@ members:
 김재형 - kjh3448723@naver.com <br><br>
 박민혁 - minhyeokpark01@gmail.com<br></b>
 <br><br><br>
+
 ## 프로젝트 설명
 
 <h3> 게임설명 </h3> <br>
