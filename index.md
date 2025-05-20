@@ -129,13 +129,13 @@ PLAN : Bee는 MR 디펜스 장르 게임입니다.<br>
 </div>
 <br><br>
 
-<h3>🕹️ 스킬 예시 2 </h3><br>
+<h3>🕹️ 엔딩 </h3><br>
 <div align="center">
   
-  <img src="https://github.com/user-attachments/assets/f895c789-b9f5-488e-a93d-e47743bcb02a">
+  <img src="https://github.com/user-attachments/assets/72cbf1fb-63fb-44ed-9677-84c9b86316b7">
   
   <br><br>
-  <b>얼음스킬을 활용해 모든 적을 얼리고 시간을 벌어보세요!</b>
+  <b>마지막으로 비하인드 스토리를 감상해보세요!</b>
   <br>
 
   
